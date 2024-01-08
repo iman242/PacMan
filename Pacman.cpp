@@ -40,7 +40,7 @@ void gotoxy(short x, short y)
   
     SetConsoleCursorPosition(hStdout, position);  
 }  
-  
+  cout<<"HEY";
 class entity  
 {  
 public:  
